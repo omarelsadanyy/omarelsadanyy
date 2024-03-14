@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Graduation Project**
 
-- 🌱 I’m currently learning **Advanced topics in Android and Backend with GO**
+- 🌱 I’m currently learning **Advanced topics in Android **
 
 - 💬 Ask me about **Mobile Development**
 
