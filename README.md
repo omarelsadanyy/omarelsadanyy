@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Advanced topics in Android and Backend with GO**
 
-- 💬 Ask me about **Kotlin and Android**
+- 💬 Ask me about **Mobile Development**
 
-- 📫 How to reach me **muhammad.shaban.ahmad1@gmail.com**
+- 📫 How to reach me **omarelsadany33@gmail.com**
 
 - 📄 Look at my CV [**here**](https://drive.google.com/file/d/1jp-Zuti3Co6c-ULoS0d_he3c_g6lC7CJ/view?usp=sharing)
 
