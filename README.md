@@ -31,7 +31,7 @@
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Omar Elsadany's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=omarelsadanyy&show_icons=true&count_private=true&locale=en&theme=transparent&layout=compact" height="230px"/>
+    <img alt="Omar Elsadany's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=omarelsadany&show_icons=true&count_private=true&locale=en&theme=transparent&layout=compact" height="230px"/>
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omarelsadanyy&langs_count=10&show_icons=true&locale=en&theme=transparent&layout=compact" alt="Top 10 Languages" height="230px"/>
 </p>
