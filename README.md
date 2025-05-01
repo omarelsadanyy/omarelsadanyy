@@ -1,12 +1,12 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hello, I'm Omar Elsadany <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<h3 align="center">Android Developer from Egypt 🌍</h3>
+<h3 align="center">Mobile Developer from Egypt 🌍</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGM2Zm8ybjI3eGFucHlvYjFsaGJsdWQweXAzN3NyazEyOWM0c2c2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H7f5ZGjvKXBaLbBigO/giphy.gif">
 
 - 🔭 I’m currently working on **Graduation Project**
 
-- 🌱 I’m currently learning **Advanced topics in Android **
+- 🌱 I’m currently learning **Native Android and Flutter Development**
 
 - 💬 Ask me about **Mobile Development**
 
