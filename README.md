@@ -16,7 +16,7 @@
 
 <h3 align="left">My Accounts</h3>
 <p align="left">
-<a href="https://twitter.com/omarelsadany856" target="blank"><img align="center" src="https://github.com/user-attachments/assets/3350c8fe-a11a-4d2b-ab63-e4f885186e4a" alt="omarelsadanyy" height="30" width="40" /></a>
+<a href="https://twitter.com/omarelsadany856" target="blank"><img align="center" src="https://github.com/user-attachments/assets/dcebe825-73fc-40ba-8e10-d4f1aebf3970" alt="omarelsadanyy" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/omar-elsaadany-055661179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omarelsadanyy" height="30" width="40" /></a>
 <a href="https://web.facebook.com/omar.elsadany.10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omarelsadanyy" height="30" width="40" /></a>
 <a href="https://www.instagram.com/o_elsadany/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omarelsadanyy" height="30" width="40" /></a>
