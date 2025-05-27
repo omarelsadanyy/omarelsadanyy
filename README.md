@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **omarelsadany33@gmail.com**
 
-- 📄 Look at my CV [**here**](https://drive.google.com/file/d/1cGk8q5O6qaiG0P7kvj3_YJCYssVRmQtP/view?usp=sharing)
+- 📄 Look at my CV [**here**](https://drive.google.com/file/d/14xNIB6PqSGm7O7YPKdQcb113rXflsxsl/view?usp=sharing)
 
 <h3 align="left">My Accounts</h3>
 <p align="left">
