@@ -4,11 +4,11 @@
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGM2Zm8ybjI3eGFucHlvYjFsaGJsdWQweXAzN3NyazEyOWM0c2c2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H7f5ZGjvKXBaLbBigO/giphy.gif">
 
-- 🔭 I’m currently working on **Graduation Project**
+- 🔭 I’m currently working as mobile developer
 
 - 🌱 I’m currently learning **Native Android and Flutter Development**
 
-- 💬 Ask me about **Mobile Development**
+- 💬 Ask me about **Mobile App Development**
 
 - 📫 How to reach me **omarelsadany33@gmail.com**
 
